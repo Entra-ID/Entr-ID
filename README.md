@@ -1,5 +1,5 @@
 # Entra-ID: Your Zoning and Permit Guide
-!entra-id Logo
+
 
 entra-id is an innovative AI application that simplifies zoning information, streamlines permit processes, and provides access to common permits. Whether you’re a resident, business owner, or developer, entra-id empowers you to navigate local regulations effortlessly.
 
